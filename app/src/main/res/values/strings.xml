@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Navigator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="recycler_view">Recycler View</string>
+    <string name="list_view">List View</string>
+    <string name="card_view">Card View</string>
+    <string name="home">Home</string>
+    <string name="welcome">Welcome to the Navigator App, Slide on the left side of the screen or click on Hamburger Menu at the top left corner to view different kinds of views in Android</string>
+
+    <string-array name="cities">
+        <item>Kanpur</item>
+        <item>Prayagraj</item>
+        <item>Delhi</item>
+        <item>Ghaziabad</item>
+        <item>Lucknow</item>
+        <item>Hyderabad</item>
+        <item>Mumbai</item>
+        <item>Ranchi</item>
+        <item>Patna</item>
+        <item>Darbanga</item>
+        <item>Puri</item>
+        <item>Etawah</item>
+        <item>Pune</item>
+        <item>Banglore</item>
+        <item>Vijayvada</item>
+        <item>Muzaffarpur</item>
+        <item>Nagpur</item>
+        <item>Bhopal</item>
+        <item>Dehradun</item>
+        <item>Gurgaon</item>
+        <item>Noida</item>
+        <item>Barabanki</item>
+        <item>Dispur</item>
+        <item>Panji</item>
+        <item>Ahemdabad</item>
+        <item>Surat</item>
+        <item>Bilaspur</item>
+        <item>Itanagar</item>
+        <item>Chandigarh</item>
+        <item>Shimla</item>
+    </string-array>
+</resources>
